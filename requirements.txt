@@ -1,4 +1,1 @@
-pytelegrambotapi
-flask
-pymongo
-dnspython
+telebot
